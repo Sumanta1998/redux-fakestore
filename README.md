@@ -1,5 +1,5 @@
 # Redux Fakestore
- Live Demo : 
+ Live Demo : https://redux-fakestore.vercel.app/
 
 ## Getting Started with Create React App
 
